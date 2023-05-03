@@ -1,6 +1,6 @@
 #reversing an array
 
-arr=[4 , 2 , 8, 6]
+arr= [4 , 2 , 8, 6] # using a predefined array
 n=4
 
 def revArr(arr):
@@ -12,4 +12,4 @@ def revArr(arr):
     n=n-1
  print(arr)    
    
-revArr(arr)
+revArr(arr) #ERROR
